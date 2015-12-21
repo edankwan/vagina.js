@@ -25,4 +25,4 @@ I personally found the PI method very useful because sometimes I just forgot abo
 
 License
 ---
-vagina.js is currently under **Giant Penis License(GPL)** which is a deformed M.I.T license included a penis acsii code.
+vagina.js is currently under [**Giant Penis License (GPL)**](http://giant-penis-license.org) which is a deformed M.I.T license included a penis acsii code.
